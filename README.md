@@ -14,7 +14,7 @@ The main objective was to build and train a deep learning model that can accurat
 
 *Technologies Used*
 - Programming Language: Python  
-- Libraries: TensorFlow, Keras, OpenCV, NumPy  
+- Libraries: TensorFlow, Keras, Matplotlib, NumPy, os, TensorFlow Dataset (tf.data)
 - Dataset:https://drive.google.com/file/d/1YocHqAfOf3v6sob6hJwQzprMRiMgKa7I/view?usp=drive_link
    
 *Project Files*
