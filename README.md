@@ -1,9 +1,7 @@
 # Deep Learning Project
 
 *Editors Names*: 
-Hadar Mentel 205642366
-Noam Arian 311271829
-Linoy Halifa 201052198
+Hadar Mentel
 
 *Project Description*
 This project focuses on building a Convolutional Neural Network (CNN) for image classification. The model is trained on a dataset organized into train and test directories, using optimized hyperparameters for improved performance.
